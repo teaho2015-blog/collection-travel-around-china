@@ -10,7 +10,7 @@
   ],
   "pluginsConfig": {
     "disqus": {
-      "shortName": "spring-source-code-learning-gitbook-teaho-net"
+      "shortName": "travel-around-china-gitbook-teaho-net"
     },
     "include-codeblock": {
       "template": "default",
@@ -18,7 +18,7 @@
       "theme": "monokai"
     },
     "ga": {
-      "token": "UA-90704189-1"
+      "token": "UA-90704189-5"
     },
     "page-treeview": {
       "copyright": "",
