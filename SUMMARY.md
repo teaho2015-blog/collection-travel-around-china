@@ -2,8 +2,9 @@
 
 ## 准备
 
-* [《汽车为什么会跑》读书笔记](book/prepare/car.md)
 * [出发前准备](book/prepare/准备.md)
+* [《汽车为什么会跑》读书笔记](book/prepare/car.md)
+
 
 ## 路上
 
